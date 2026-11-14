@@ -1,0 +1,8 @@
+{
+  "name": "TaxiSeat",
+  "description": "Smart shared taxi seat-booking platform for Moroccan urban transportation — find taxis travelling your way, reserve a seat, track arrival, and pay seamlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
